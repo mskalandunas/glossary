@@ -1,0 +1,4 @@
+- poll with req animation from
+- "backoff" functionality in polling to increase time between requests when erroring
+- need HTTPS to push with HTTP push
+- open connection won't offer a status (will be empty) it can still 200 or 500 or whatever later
